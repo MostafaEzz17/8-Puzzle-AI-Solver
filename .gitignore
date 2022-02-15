@@ -1,0 +1,6 @@
+*.gv
+*.png
+*.txt
+.idea
+import-gui.sh
+*__pycache__*
